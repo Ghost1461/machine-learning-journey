@@ -1,5 +1,3 @@
-Python, Machine Learning (Makine Öğrenmesi), İstatistik, SQL, Büyük Veri, Doğal Dil İşleme. 9 Eğitim 1 Arada!
-
 # Machine Learning Journey 🚀
 
 Welcome to my Machine Learning and Data Science learning repository!
