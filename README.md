@@ -1,3 +1,5 @@
+Python, Machine Learning (Makine Öğrenmesi), İstatistik, SQL, Büyük Veri, Doğal Dil İşleme. 9 Eğitim 1 Arada!
+
 # Machine Learning Journey 🚀
 
 Welcome to my Machine Learning and Data Science learning repository!
@@ -35,15 +37,13 @@ The repository will gradually include:
 machine-learning-journey/
 │
 ├── 01-python-basics/
-├── 02-numpy/
-├── 03-pandas/
-├── 04-data-visualization/
-├── 05-statistics/
-├── 06-data-preprocessing/
+├── 02-Numpy/
+├── 03-Pandas/
+├── 04-Data Visualization/
+├── 05-05-Statistics for Data Science/
+├── 06-Data Preprocessing/
 ├── 07-supervised-learning/
 ├── 08-unsupervised-learning/
-├── 09-nlp/
-├── 10-sql/
 │
 ├── projects/
 └── README.md
@@ -62,7 +62,7 @@ machine-learning-journey/
 
 ## 📖 Learning Resources
 
-**Primary Course:** Python, Machine Learning, Statistics, SQL, Big Data, and Natural Language Processing — Udemy.
+**Primary Course:** Python, Machine Learning (Makine Öğrenmesi), İstatistik, SQL, Büyük Veri, Doğal Dil İşleme. 9 Eğitim 1 Arada! — Vahit Keskin, Veri Bilimi Okulu
 
 Additional resources, documentation, and independent experiments may also be included.
 
